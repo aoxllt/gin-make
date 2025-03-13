@@ -5,7 +5,7 @@
 
 # 项目结构
 
-my-gin-project/
+`my-gin-project/
 ├── cmd/                    # 应用程序入口
 │   └── main.go             # 主程序入口，初始化和启动服务
 ├── config/                 # 配置文件
@@ -41,3 +41,4 @@ my-gin-project/
 ├── go.mod                  # Go 模块定义
 ├── go.sum                  # 依赖校验文件
 └── README.md               # 项目说明
+`
